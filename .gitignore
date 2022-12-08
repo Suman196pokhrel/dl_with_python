@@ -1,0 +1,6 @@
+/datasets
+/outputs
+/models
+
+*.csv
+*.pkl
