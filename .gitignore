@@ -1,8 +1,9 @@
 /datasets
 /outputs
 /models
-
+/data
 *.csv
 *.pkl
+*.pth
 
 .python-version
