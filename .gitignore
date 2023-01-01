@@ -2,7 +2,8 @@
 /outputs
 /models
 /data
-/Pytorch_101/data
+/Pytorch_101/data/
+/Pytorch_101/outputs/
 *.csv
 *.pkl
 *.pth
